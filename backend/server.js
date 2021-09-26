@@ -10,7 +10,7 @@ app.listen(process.env.PORT, () => {
   );
 });
 
-// process.on("unhandledRejection", (reason, promise) => {
+//process.on("unhandledRejection", (reason, promise) => {
 //   console.log("Unhandled rejection at ", promise, `reason: ${err.message}`);
 //   process.exit(1);
 // });
